@@ -1,3 +1,3 @@
 
 Port: 8080
-Connections: Allowed
+Connections: Disabled
